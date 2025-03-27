@@ -30,7 +30,7 @@
     <descriptor id="org.springframework.templates.mvc" kind="template" local="false" name="Spring MVC Project" requires="[0.0.0,2.8.0)" size="17198" url="https://dist.springsource.com/release/STS/help/org.springframework.templates.mvc-3.0.18.zip" version="3.0.18">
         <description>A new Spring MVC web application development project</description>
     </descriptor>
-    <descriptor id="org.springframework.templates.mvc" kind="template" local="false" name="Spring MVC Project" requires="2.8.0" requiresbundle="org.eclipse.m2e.core" size="16608" url="https://dist.springsource.com/release/STS/help/org.springframework.templates.mvc-3.2.2.zip" version="3.2.2">
+    <descriptor id="org.springframework.templates.mvc" kind="template" local="false" name="Spring MVC Project" requires="2.8.0" requiresbundle="org.eclipse.m2e.core" size="16608" url="https://mangdol-callon.github.io/spring/org.springframework.templates.mvc-3.2.2.zip" version="3.2.2">
         <description>A new Spring MVC web application development project</description>
     </descriptor>
     <descriptor id="org.springframework.samples.spring.hibernate" kind="template" local="false" name="Simple Spring Hibernate Utility Project" requires="[0.0.0,2.8.0)" size="14052" url="https://dist.springsource.com/release/STS/help/org.springframework.samples.spring.hibernate-2.5.1.zip" version="2.5.1">
