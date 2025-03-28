@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <descriptors>
-    <descriptor id="org.springframework.templates.mvc" kind="template" local="true" name="Spring MVC Project" requiresbundle="org.eclipse.m2e.core" size="0" version="3.2.2">
-        <description>A new Spring MVC web application development project</description>
-    </descriptor>
     <descriptor category="GemFire" id="org.springframework.data.gemfire.template.standalone" kind="template" local="false" name="Spring Data GemFire Project (Standalone)" requires="[3.0.0,4.0)" size="7467" url="https://raw.github.com/SpringSource/spring-data-gemfire-sts-templates/master/builds/gemfire-standalone-sts-template-1.0.1.RELEASE.zip" version="1.0.1.RELEASE">
         <description>Creates a Spring Data GemFire project with an embedded cache and one region that runs as a standalone Java application.</description>
     </descriptor>
@@ -30,7 +27,7 @@
     <descriptor id="org.springframework.templates.mvc" kind="template" local="false" name="Spring MVC Project" requires="[0.0.0,2.8.0)" size="17198" url="https://dist.springsource.com/release/STS/help/org.springframework.templates.mvc-3.0.18.zip" version="3.0.18">
         <description>A new Spring MVC web application development project</description>
     </descriptor>
-    <descriptor id="org.springframework.templates.mvc" kind="template" local="false" name="Spring MVC Project" requires="2.8.0" requiresbundle="org.eclipse.m2e.core" size="16608" url="https://mangdol-callon.github.io/spring/org.springframework.templates.mvc-3.2.2.zip" version="3.2.2">
+    <descriptor id="org.springframework.templates.mvc" kind="template" local="false" name="Spring MVC Project" requires="2.8.0" requiresbundle="org.eclipse.m2e.core" size="16608" url="https://github.com/mangdol-callon/spring/blob/main/org.springframework.templates.mvc-3.2.2.zip" version="3.2.2">
         <description>A new Spring MVC web application development project</description>
     </descriptor>
     <descriptor id="org.springframework.samples.spring.hibernate" kind="template" local="false" name="Simple Spring Hibernate Utility Project" requires="[0.0.0,2.8.0)" size="14052" url="https://dist.springsource.com/release/STS/help/org.springframework.samples.spring.hibernate-2.5.1.zip" version="2.5.1">
